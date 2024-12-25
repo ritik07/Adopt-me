@@ -1,0 +1,33 @@
+{
+  "name": "adoptme",
+  "version": "1.0.0",
+  "description": "Adopt me!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritik07/Adopt-me.git"
+  },
+  "keywords": [
+    "adopt me",
+    "animal adoption",
+    "pet near me",
+    "pet to adopt"
+  ],
+  "author": "Ritik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritik07/Adopt-me/issues"
+  },
+  "homepage": "https://github.com/ritik07/Adopt-me#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.2",
+    "nodemailer": "^6.9.14",
+    "sequelize": "^6.37.1"
+  }
+}
